@@ -1,0 +1,7 @@
+.news-item-container {
+    margin-bottom: 50px;
+}
+
+.news-item-container img {
+    max-width: 100vw;
+}
